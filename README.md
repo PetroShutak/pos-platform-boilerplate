@@ -1,4 +1,4 @@
-# Poster POS Platform Boilerplate
+# Poster POS Platform Boilerplate #1
 
 POS Platform Boilerplate — это шаблон для создания приложений на POS платформе.    
 
